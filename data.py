@@ -40,7 +40,5 @@ question_data = [
     }, {
         "text": "The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
         "answer": "False"},
-    {
-        "text": "A Boolean value of &quot;0&quot; represents which of these words?", "answer": "False",
-    }
+  
 ]
