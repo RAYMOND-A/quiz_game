@@ -19,12 +19,12 @@ question_data = [
     {
         "text": "The HTML5 standard was published in 2014.", "answer": "True"},
     {
-        "text": "The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;.",
+        "text": "The common software-programming acronym 'I18N' comes from the term 'Interlocalization'.",
         "answer": "False"},
     {
         "text": "The first computer bug was formed by faulty wires.", "answer": "False",
     }, {
-        "text": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+        "text": "FLAC stands for 'Free Lossless Audio Condenser'",
         "answer": "False"},
     {
         "text": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
